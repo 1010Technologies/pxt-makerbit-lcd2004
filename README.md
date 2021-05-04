@@ -1,4 +1,4 @@
-# MakerBit LCD12004
+# MakerBit LCD2004
 
 [![Build Status](https://travis-ci.org/1010Technologies/pxt-makerbit-lcd2004.svg?branch=master)](https://travis-ci.org/1010Technologies/pxt-makerbit-lcd2004)
 
