@@ -1,6 +1,6 @@
 # MakerBit LCD2004
 
-[![Build Status](https://travis-ci.com/1010Technologies/pxt-makerbit-lcd2004.svg?branch=master)](https://travis-ci.com/1010Technologies/pxt-makerbit-lcd2004)
+[![Build Status](https://travis-ci.com/1010Technologies/pxt-makerbit-lcd2004.svg?branch=main)](https://travis-ci.com/1010Technologies/pxt-makerbit-lcd2004)
 
 MakeCode extension for I2C LCD 2004 displays.
 
