@@ -1,0 +1,20 @@
+{
+    "name": "MakerBit-LCD2004",
+    "version": "0.0.1",
+    "description": "MakeCode extension for I2C LCD 2004 displays",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "lcd-core": "github:1010Technologies/pxt-makerbit-lcd-core#v0.0.3"
+    },
+    "files": [
+        "namespace.ts",
+        "README.md",
+        "lcd2004.ts",
+        "_locales/de/MakerBit-LCD2004-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
