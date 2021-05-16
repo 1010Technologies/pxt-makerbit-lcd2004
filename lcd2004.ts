@@ -163,6 +163,8 @@ const enum LcdPosition2004 {
   Pos80 = 80
 }
 
+//% color=#0fbc11 icon="\u272a" block="MakerBit"
+//% category="MakerBit"
 namespace makerbit {
   /**
    * Displays a text on a LCD2004 in the given position range.
