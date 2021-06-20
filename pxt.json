@@ -1,6 +1,6 @@
 {
     "name": "MakerBit-LCD2004",
-    "version": "0.0.4",
+    "version": "1.0.0",
     "description": "MakeCode extension for I2C LCD 2004 displays",
     "license": "MIT",
     "dependencies": {
