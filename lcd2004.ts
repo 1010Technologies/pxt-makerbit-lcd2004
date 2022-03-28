@@ -223,4 +223,16 @@ namespace makerbit {
   export function position2004(pos: LcdPosition2004): number {
     return pos;
   }
+
+  /**
+   * Display a custom character at a specified LCD position.
+   */
+  //% subcategory="LCD"
+  //% blockId="makerbit_lcd_showcharacter2004"
+  //% block="LCD2004 show character %char|at position %position=makerbit_lcd_position_2004"
+  //% weight=57
+  export function lcdShowCharacter2004(char: LcdChar, position: number): void {
+    setCharacter(char, position - 1, 20, 4);
+  }
+
 }
